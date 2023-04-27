@@ -1,0 +1,12 @@
+p {
+    font-weight: bold;
+    margin: 30px;
+}
+
+form {
+    float: right;
+}
+
+button {
+    margin: 1em;
+}
